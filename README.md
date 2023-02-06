@@ -1,4 +1,4 @@
-# Google Doodle 
+# Destiny 2 Google Doodle 
 
 ![Web 2 Starter](web2.webp)
 
