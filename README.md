@@ -1,12 +1,10 @@
-# Web Design 2 Starter
+# Google Doodle 
 
 ![Web 2 Starter](web2.webp)
 
-> Computers are dumb. Humans make them smart.
+> we are using coding to animate a doodle of our topic.
 
-Starter (boilerplate) for all future projects.
+The Google Doodle Project 
 
 ## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+* a google doodle using coding to animate 
