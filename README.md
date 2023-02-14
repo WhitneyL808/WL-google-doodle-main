@@ -1,8 +1,6 @@
 # Destiny 2 Google Doodle 
 
-![Web 2 Starter](web2.webp)
-
-> we are using coding to animate a doodle of our topic.
+> My google doodle is about the current DLC expantion on Destiny 2: Witch Queen. Just animating the basic content of the Destiny expantion. 
 
 The Google Doodle Project 
 
