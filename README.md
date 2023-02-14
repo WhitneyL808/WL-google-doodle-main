@@ -5,4 +5,6 @@
 The Google Doodle Project 
 
 ## Why Does This Exist?
-* a google doodle using coding to animate 
+* SVG sources: Figma
+* Coding Sources: 
+* Image Sources: IGN: Destiny 2: Witch Queen, Game Informer: Destiny 2: Witch Queen Preview, Etsy: Destiny Class Symbols.
