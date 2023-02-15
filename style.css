@@ -1,3 +1,69 @@
 body {
-    background: rgb(201, 216, 211);
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  body {
+      background: rgb(201, 216, 211);
+  }
+  
+  
+  #stage {
+      background: #ccc;
+      height: 378px;
+      width: 490px;
+    }
+  
+  #traveler-fill{
+    fill: #38322E;
+    
+  }
+  
+  #traveler-background{
+    fill: #D9D9D9;
+  }
+  
+  #witchqueen-logo{
+    fill: #A8EDAB;
+  }
+  
+  #witchqueen-ghost{
+    fill: #94A45E;
+  }
+  
+  #ghost-eye{
+    fill:#A8EDAB;
+  }
+  
+  #savathun-head{
+    fill: #38322E;
+  }
+  
+  #eye1{
+    fill: #7FBCF4;
+  }
+  
+  #eye2{
+    fill:#7FBCF4;
+  }
+  
+  #eye3{
+    fill:#7FBCF4;
+  }
+  
+  #warlock{
+    fill: #fe5d26;
+  }
+  
+  #titan{
+    fill: #df2935;
+  }
+  
+  #hunter{
+     fill: #9d4edd;
+  }
+  
